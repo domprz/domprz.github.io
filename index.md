@@ -1,4 +1,4 @@
-This line edited by Dominic - https://github.com/domprz/domprz.github.io.git
+[GitHub source repository](https://github.com/domprz/domprz.github.io.git)
 
 ## Welcome to GitHub Pages
 
